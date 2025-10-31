@@ -1,3 +1,4 @@
+#USE IT FOR LCD DISPLAY CHECKING 
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
